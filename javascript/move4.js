@@ -1,5 +1,3 @@
-//版权 北京智能社©, 保留所有权利
-
 function move(obj,attr,iTarget,time){
 	var start=parseFloat(getStyle(obj,attr));
 	var dis=iTarget-start;
